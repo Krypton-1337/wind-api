@@ -5,7 +5,7 @@ import time
 # URL
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 # city
-CITY = "CITY"
+CITY = "Doral"
 #API
 API_KEY = "APIKEY"
 # building URL
